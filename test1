@@ -1,0 +1,8 @@
+<this attrs="stuff" bob="things"><is wokwok /> <neat meow="stuff"/> </this> <one />
+<ok and><pretty nested><things aplenty><flomp><guf><thing> Normal text </thing></guf></flomp><floom>Text Again</floom></things></pretty></ok>
+Invalid parse <you know
+<almost><valid><again> Words </again>
+<back><to><ok /></to></back>
+<containing attr="with /"><and><thats state="ok"/></and></containing>
+Jan 24 10:29:44 c2s563214f17340 debug   RECV: <iq type='set' id='39HMnRAoAy5i' from='test1@cyan0.localdomain/Conversations.BJfr' to='+15555555555@cheogram'><jingle xmlns='urn:xmpp:jingle:1' action='session-initiate' sid='2UZLLw3Hm/+YUBJNgZ2dtg'><content creator='initiator' senders='initiator' name='TYC3V2qpDp8gaXHDfPZsAQ'><description xmlns='urn:xmpp:jingle:apps:file-transfer:5'><file><size>164071</size><name>IMG_20210104_123824_01.jpg</name></file></description><transport xmlns='urn:xmpp:jingle:transports:s5b:1' sid='Dkh1neetZV6zaV26LlVUVg'><candidate type='direct' priority='8257536' host='192.168.10.112' cid='6d2223e9-de63-476b-a635-0c2c60b474d7' jid='test1@cyan0.localdomain/Conversations.BJfr' port='46409'/></transport></content></jingle></iq>
+<one attr='value'> <two /> <three> Four </three></one>
